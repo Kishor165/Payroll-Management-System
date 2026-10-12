@@ -71,7 +71,6 @@ The application may include the following tables:
 - Improved dashboard with payroll summaries.
 
 ## 🎯 Project Objective
-
 The objective of this project is to simplify employee record management and payroll processing while providing authenticated access and efficient database operations.
 
 ## 👨‍💻 Author
