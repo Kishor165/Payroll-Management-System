@@ -19,7 +19,6 @@ A **Payroll Management System** is a web-based application designed to manage em
 - **Tools:** Git, GitHub, VS Code / Eclipse
 
 ## 📋 Modules
-
 ### 1. User Authentication
 - User registration and sign-in.
 - Validate login credentials.
