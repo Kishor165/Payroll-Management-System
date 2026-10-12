@@ -57,7 +57,6 @@ A **Payroll Management System** is a web-based application designed to manage em
 7. Open the application in your browser or access the configured application URL.
 
 ## 🗄️ Database Tables
-
 The application may include the following tables:
 
 - **users** — stores user registration and authentication details.
