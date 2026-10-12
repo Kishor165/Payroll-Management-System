@@ -65,7 +65,6 @@ The application may include the following tables:
 - **payroll** — stores salary, allowances, deductions, and net salary details.
 
 ## 🔮 Future Enhancements
-
 - Employee search and filtering.
 - Salary slip generation and download.
 - Monthly payroll reports.
