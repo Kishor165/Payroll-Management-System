@@ -15,7 +15,6 @@ A **Payroll Management System** is a web-based application designed to manage em
 - **Backend:** Java / Spring Boot / PHP *(update according to your implementation)*
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code / Eclipse
-
 ## 📋 Modules
 ### 1. User Authentication
 - User registration and sign-in.
