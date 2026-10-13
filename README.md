@@ -68,6 +68,5 @@ The objective of this project is to simplify employee record management and payr
 
 - GitHub: [Kishor165](https://github.com/Kishor165)
 - LinkedIn: [Kishor Kumar](https://www.linkedin.com/in/kishorkumar28/)
-
 ---
 ⭐ If you find this project useful, consider giving the repository a star.
