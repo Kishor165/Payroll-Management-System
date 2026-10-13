@@ -10,7 +10,6 @@ A **Payroll Management System** is a web-based application designed to manage em
 - **Payroll Management:** Manage basic salary, allowances, deductions, and net salary.
 - **Input Validation:** Validate user inputs to maintain data consistency.
 - **Database Integration:** Store and retrieve employee and payroll records.
-
 ## 🛠️ Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
