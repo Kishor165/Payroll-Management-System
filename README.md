@@ -1,6 +1,5 @@
 # Payroll Management System
 A **Payroll Management System** is a web-based application designed to manage employee information, salary details, and payroll records efficiently. It includes secure user authentication and CRUD (Create, Read, Update, Delete) operations for employee management.
-
 ## 🚀 Features
 
 - **User Sign Up:** Register new users to access the system.
