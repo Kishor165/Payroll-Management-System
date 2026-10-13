@@ -55,7 +55,6 @@ The application may include the following tables:
 - **users** — stores user registration and authentication details.
 - **employees** — stores employee ID, name, department, designation, and contact information.
 - **payroll** — stores salary, allowances, deductions, and net salary details.
-
 ## 🔮 Future Enhancements
 - Employee search and filtering.
 - Salary slip generation and download.
