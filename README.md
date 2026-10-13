@@ -29,7 +29,6 @@ A **Payroll Management System** is a web-based application designed to manage em
 - Maintain employee salary information.
 - Manage allowances and deductions.
 - Calculate net salary.
-
 **Net Salary = Basic Salary + Allowances − Deductions**
 
 ## ⚙️ Installation and Setup
