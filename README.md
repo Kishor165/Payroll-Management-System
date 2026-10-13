@@ -20,7 +20,6 @@ A **Payroll Management System** is a web-based application designed to manage em
 - User registration and sign-in.
 - Validate login credentials.
 - Restrict access to authorized users.
-
 ### 2. Employee Management
 - Create employee records.
 - View employee details.
