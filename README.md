@@ -65,7 +65,6 @@ The application may include the following tables:
 The objective of this project is to simplify employee record management and payroll processing while providing authenticated access and efficient database operations.
 ## 👨‍💻 Author
 **Kishor Kumar**
-
 - GitHub: [Kishor165](https://github.com/Kishor165)
 - LinkedIn: [Kishor Kumar](https://www.linkedin.com/in/kishorkumar28/)
 ---
