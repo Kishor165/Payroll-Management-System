@@ -29,6 +29,7 @@ A **Payroll Management System** is a web-based application designed to manage em
 - View employee details.
 - Update employee information.
 - Delete employee records.
+- 
 ### 3. Payroll Management
 - Maintain employee salary information.
 - Manage allowances and deductions.
